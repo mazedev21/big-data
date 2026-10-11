@@ -1,0 +1,404 @@
+transaksi_id,teller_id,cabang,jenis_transaksi,waktu_layanan_menit,biaya_administrasi,status_transaksi
+TRX-1000,TL008,Cabang Yogyakarta,Transfer,4.0,2000.0,Selesai
+TRX-1001,TL013,Cabang Yogyakarta,tarik tunai,16.0,5000.0,Selesai
+TRX-1002,TL007,Cabang Yogyakarta,Setor,15.0,10000.0,Dibatalkan
+TRX-1003,TL006,Cabang Yogyakarta,transfer,21.0,2000.0,Selesai
+TRX-1004,TL009,Cabang Semarang,Setor,11.0,2000.0,Selesai
+TRX-1005,TL004,Cabang Yogyakarta,Setor,10.0,7500.0,Selesai
+TRX-1006,TL017,Cabang Semarang,Transfer,18.0,2000.0,Selesai
+TRX-1007,TL014,Cabang Semarang,Transfer,,5000.0,Dibatalkan
+TRX-1008,TL006,Cabang Yogyakarta,Tarik Tunai,11.0,2000.0,Dibatalkan
+TRX-1009,TL004,Cabang Yogyakarta,Setor,11.0,5000.0,Selesai
+TRX-1010,TL009,Cabang Semarang,Setor,11.0,10000.0,Dibatalkan
+TRX-1011,TL005,Cabang Yogyakarta,Transfer,15.0,,Selesai
+TRX-1012,TL006,Cabang Yogyakarta,setor,19.0,2000.0,Dibatalkan
+TRX-1013,TL019,Cabang Magelang,Tarik Tunai,13.0,2000.0,Dibatalkan
+TRX-1014,TL010,Cabang Magelang,Setor,12.0,7500.0,Selesai
+TRX-1015,TL016,Cabang Semarang,Transfer,5.0,2000.0,Dibatalkan
+TRX-1016,TL012,Cabang Yogyakarta,Tarik Tunai,19.0,10000.0,Selesai
+TRX-1017,TL008,Cabang Yogyakarta,setor,11.0,5000.0,Selesai
+TRX-1018,TL008,Cabang Yogyakarta,tarik tunai,24.0,10000.0,Selesai
+TRX-1019,TL012,Cabang Yogyakarta,Transfer,14.0,7500.0,Selesai
+TRX-1020,TL012,Cabang Yogyakarta,tarik tunai,7.0,3000.0,Dibatalkan
+TRX-1021,TL006,Cabang Yogyakarta,transfer,11.0,2000.0,Selesai
+TRX-1022,TL007,Cabang Yogyakarta,transfer,3.0,5000.0,Selesai
+TRX-1023,TL003,Cabang Yogyakarta,Transfer,19.0,3000.0,Selesai
+TRX-1024,TL006,Cabang Yogyakarta,setor,20.0,10000.0,Dibatalkan
+TRX-1025,TL019,Cabang Magelang,TARIK TUNAI,15.0,10000.0,Selesai
+TRX-1026,TL019,Cabang Magelang,setor,16.0,10000.0,Dibatalkan
+TRX-1027,TL020,Cabang Magelang,transfer,7.0,7500.0,Selesai
+TRX-1028,TL010,Cabang Magelang,setor,20.0,7500.0,Selesai
+TRX-1029,TL016,Cabang Semarang,tarik tunai,3.0,3000.0,Selesai
+TRX-1030,TL010,Cabang Magelang,setor,22.0,7500.0,Selesai
+TRX-1031,TL006,Cabang Yogyakarta,tarik tunai,11.0,7500.0,Dibatalkan
+TRX-1032,TL003,Cabang Yogyakarta,transfer,12.0,2000.0,Selesai
+TRX-1033,TL016,Cabang Semarang,setor,21.0,10000.0,Selesai
+TRX-1034,TL002,Cabang Semarang,setor,22.0,10000.0,Selesai
+TRX-1035,TL016,Cabang Semarang,Setor,15.0,2000.0,Selesai
+TRX-1036,TL014,Cabang Semarang,setor,10.0,10000.0,Dibatalkan
+TRX-1037,TL020,Cabang Magelang,Setor,8.0,2000.0,Selesai
+TRX-1038,TL004,Cabang Yogyakarta,TARIK TUNAI,21.0,3000.0,Dibatalkan
+TRX-1039,TL011,Cabang Yogyakarta,Setor,20.0,2000.0,Selesai
+TRX-1040,TL019,Cabang Magelang,TARIK TUNAI,3.0,10000.0,Selesai
+TRX-1041,TL010,Cabang Magelang,setor,16.0,2000.0,Dibatalkan
+TRX-1042,TL019,Cabang Magelang,Setor,,3000.0,Selesai
+TRX-1043,TL006,Cabang Yogyakarta,TARIK TUNAI,11.0,5000.0,Selesai
+TRX-1044,TL005,Cabang Yogyakarta,Tarik Tunai,11.0,5000.0,Selesai
+TRX-1045,TL014,Cabang Semarang,transfer,14.0,5000.0,Selesai
+TRX-1046,TL014,Cabang Semarang,Transfer,5.0,2000.0,Dibatalkan
+TRX-1047,TL017,Cabang Semarang,tarik tunai,25.0,10000.0,Selesai
+TRX-1048,TL018,Cabang Semarang,tarik tunai,19.0,10000.0,Selesai
+TRX-1049,TL014,Cabang Semarang,tarik tunai,12.0,7500.0,Selesai
+TRX-1050,TL012,Cabang Yogyakarta,Setor,21.0,10000.0,Selesai
+TRX-1051,TL002,Cabang Semarang,setor,4.0,3000.0,Selesai
+TRX-1052,TL018,Cabang Semarang,Tarik Tunai,21.0,7500.0,Selesai
+TRX-1053,TL008,Cabang Yogyakarta,Transfer,8.0,7500.0,Selesai
+TRX-1054,TL019,Cabang Magelang,Setor,21.0,5000.0,Dibatalkan
+TRX-1055,TL007,Cabang Yogyakarta,Tarik Tunai,20.0,10000.0,Selesai
+TRX-1056,TL010,Cabang Magelang,setor,15.0,5000.0,Selesai
+TRX-1057,TL009,Cabang Semarang,Setor,10.0,7500.0,Selesai
+TRX-1058,TL005,Cabang Yogyakarta,setor,15.0,7500.0,Selesai
+TRX-1059,TL015,Cabang Magelang,Transfer,18.0,2000.0,Selesai
+TRX-1060,TL005,Cabang Yogyakarta,Transfer,24.0,5000.0,Dibatalkan
+TRX-1061,TL008,Cabang Yogyakarta,setor,20.0,7500.0,Selesai
+TRX-1062,TL013,Cabang Yogyakarta,Setor,15.0,2000.0,Dibatalkan
+TRX-1063,TL008,Cabang Yogyakarta,transfer,5.0,10000.0,Selesai
+TRX-1064,TL017,Cabang Semarang,setor,16.0,7500.0,Selesai
+TRX-1065,TL009,Cabang Semarang,tarik tunai,5.0,5000.0,Dibatalkan
+TRX-1066,TL006,Cabang Yogyakarta,tarik tunai,7.0,7500.0,Selesai
+TRX-1067,TL010,Cabang Magelang,Transfer,5.0,7500.0,Dibatalkan
+TRX-1068,TL002,Cabang Semarang,transfer,14.0,10000.0,Selesai
+TRX-1069,TL014,Cabang Semarang,tarik tunai,15.0,5000.0,Selesai
+TRX-1070,TL013,Cabang Yogyakarta,setor,3.0,7500.0,Selesai
+TRX-1071,TL008,Cabang Yogyakarta,TARIK TUNAI,6.0,10000.0,Selesai
+TRX-1072,TL004,Cabang Yogyakarta,setor,25.0,7500.0,Dibatalkan
+TRX-1073,TL007,Cabang Yogyakarta,Transfer,20.0,5000.0,Selesai
+TRX-1074,TL009,Cabang Semarang,Setor,19.0,7500.0,Selesai
+TRX-1075,TL016,Cabang Semarang,Transfer,12.0,2000.0,Selesai
+TRX-1076,TL006,Cabang Yogyakarta,Transfer,6.0,5000.0,Dibatalkan
+TRX-1077,TL014,Cabang Semarang,TARIK TUNAI,21.0,7500.0,Selesai
+TRX-1078,TL004,Cabang Yogyakarta,Setor,19.0,5000.0,Selesai
+TRX-1079,TL006,Cabang Yogyakarta,Transfer,3.0,3000.0,Selesai
+TRX-1080,TL020,Cabang Magelang,transfer,6.0,5000.0,Dibatalkan
+TRX-1081,TL004,Cabang Yogyakarta,Transfer,20.0,5000.0,Selesai
+TRX-1082,TL004,Cabang Yogyakarta,tarik tunai,12.0,2000.0,Selesai
+TRX-1083,TL019,Cabang Magelang,transfer,20.0,3000.0,Selesai
+TRX-1084,TL019,Cabang Magelang,setor,6.0,5000.0,Dibatalkan
+TRX-1085,TL018,Cabang Semarang,tarik tunai,22.0,7500.0,Selesai
+TRX-1086,TL001,Cabang Yogyakarta,Transfer,18.0,2000.0,Selesai
+TRX-1087,TL013,Cabang Yogyakarta,Setor,3.0,7500.0,Dibatalkan
+TRX-1088,TL013,Cabang Yogyakarta,tarik tunai,25.0,3000.0,Selesai
+TRX-1089,TL018,Cabang Semarang,Tarik Tunai,6.0,3000.0,Selesai
+TRX-1090,TL006,Cabang Yogyakarta,Transfer,8.0,10000.0,Selesai
+TRX-1091,TL003,Cabang Yogyakarta,TARIK TUNAI,22.0,5000.0,Selesai
+TRX-1092,TL011,Cabang Yogyakarta,tarik tunai,10.0,5000.0,Dibatalkan
+TRX-1093,TL011,Cabang Yogyakarta,Setor,11.0,7500.0,Dibatalkan
+TRX-1094,TL015,Cabang Magelang,Transfer,10.0,10000.0,Selesai
+TRX-1095,TL007,Cabang Yogyakarta,transfer,24.0,,Selesai
+TRX-1096,TL017,Cabang Semarang,Transfer,21.0,5000.0,Dibatalkan
+TRX-1097,TL005,Cabang Yogyakarta,Tarik Tunai,21.0,7500.0,Selesai
+TRX-1098,TL011,Cabang Yogyakarta,Tarik Tunai,17.0,10000.0,Selesai
+TRX-1099,TL017,Cabang Semarang,setor,19.0,2000.0,Selesai
+TRX-1100,TL016,Cabang Semarang,setor,18.0,10000.0,Selesai
+TRX-1101,TL003,Cabang Yogyakarta,tarik tunai,20.0,3000.0,Selesai
+TRX-1102,TL015,Cabang Magelang,Transfer,22.0,5000.0,Selesai
+TRX-1103,TL006,Cabang Yogyakarta,Transfer,10.0,3000.0,Selesai
+TRX-1104,TL015,Cabang Magelang,TARIK TUNAI,21.0,2000.0,Selesai
+TRX-1105,TL007,Cabang Yogyakarta,setor,25.0,3000.0,Selesai
+TRX-1106,TL016,Cabang Semarang,setor,15.0,7500.0,Selesai
+TRX-1107,TL009,Cabang Semarang,Tarik Tunai,15.0,5000.0,Selesai
+TRX-1108,TL006,Cabang Yogyakarta,Transfer,8.0,3000.0,Selesai
+TRX-1109,TL016,Cabang Semarang,transfer,17.0,10000.0,Selesai
+TRX-1110,TL011,Cabang Yogyakarta,Transfer,6.0,7500.0,Selesai
+TRX-1111,TL011,Cabang Yogyakarta,setor,25.0,3000.0,Dibatalkan
+TRX-1112,TL014,Cabang Semarang,Setor,5.0,3000.0,Dibatalkan
+TRX-1113,TL018,Cabang Semarang,tarik tunai,3.0,10000.0,Selesai
+TRX-1114,TL008,Cabang Yogyakarta,transfer,22.0,3000.0,Dibatalkan
+TRX-1115,TL016,Cabang Semarang,tarik tunai,12.0,10000.0,Dibatalkan
+TRX-1116,TL015,Cabang Magelang,TARIK TUNAI,21.0,7500.0,Selesai
+TRX-1117,TL001,Cabang Yogyakarta,TARIK TUNAI,10.0,3000.0,Dibatalkan
+TRX-1118,TL017,Cabang Semarang,tarik tunai,6.0,3000.0,Selesai
+TRX-1119,TL015,Cabang Magelang,tarik tunai,20.0,3000.0,Selesai
+TRX-1120,TL011,Cabang Yogyakarta,TARIK TUNAI,22.0,5000.0,Selesai
+TRX-1121,TL015,Cabang Magelang,Transfer,9.0,5000.0,Selesai
+TRX-1122,TL003,Cabang Yogyakarta,transfer,16.0,10000.0,Selesai
+TRX-1123,TL016,Cabang Semarang,setor,8.0,3000.0,Selesai
+TRX-1124,TL019,Cabang Magelang,transfer,12.0,10000.0,Dibatalkan
+TRX-1125,TL009,Cabang Semarang,TARIK TUNAI,13.0,3000.0,Selesai
+TRX-1126,TL002,Cabang Semarang,Setor,21.0,7500.0,Selesai
+TRX-1127,TL012,Cabang Yogyakarta,Setor,11.0,5000.0,Selesai
+TRX-1128,TL001,Cabang Yogyakarta,tarik tunai,4.0,3000.0,Dibatalkan
+TRX-1129,TL017,Cabang Semarang,tarik tunai,14.0,3000.0,Dibatalkan
+TRX-1130,TL013,Cabang Yogyakarta,Transfer,12.0,7500.0,Selesai
+TRX-1131,TL016,Cabang Semarang,Transfer,4.0,7500.0,Dibatalkan
+TRX-1132,TL015,Cabang Magelang,transfer,4.0,7500.0,Dibatalkan
+TRX-1133,TL011,Cabang Yogyakarta,Setor,17.0,5000.0,Selesai
+TRX-1134,TL005,Cabang Yogyakarta,tarik tunai,9.0,7500.0,Selesai
+TRX-1135,TL004,Cabang Yogyakarta,TARIK TUNAI,23.0,10000.0,Selesai
+TRX-1136,TL018,Cabang Semarang,transfer,21.0,7500.0,Dibatalkan
+TRX-1137,TL011,Cabang Yogyakarta,Setor,14.0,5000.0,Selesai
+TRX-1138,TL010,Cabang Magelang,setor,23.0,7500.0,Selesai
+TRX-1139,TL011,Cabang Yogyakarta,transfer,11.0,2000.0,Selesai
+TRX-1140,TL004,Cabang Yogyakarta,setor,9.0,5000.0,Selesai
+TRX-1141,TL020,Cabang Magelang,Setor,10.0,10000.0,Selesai
+TRX-1142,TL002,Cabang Semarang,Transfer,4.0,3000.0,Selesai
+TRX-1143,TL017,Cabang Semarang,Transfer,12.0,5000.0,Selesai
+TRX-1144,TL011,Cabang Yogyakarta,Transfer,9.0,5000.0,Dibatalkan
+TRX-1145,TL010,Cabang Magelang,TARIK TUNAI,,10000.0,Selesai
+TRX-1146,TL008,Cabang Yogyakarta,Setor,14.0,7500.0,Dibatalkan
+TRX-1147,TL014,Cabang Semarang,TARIK TUNAI,8.0,5000.0,Selesai
+TRX-1148,TL017,Cabang Semarang,setor,23.0,2000.0,Dibatalkan
+TRX-1149,TL011,Cabang Yogyakarta,Transfer,10.0,2000.0,Selesai
+TRX-1150,TL016,Cabang Semarang,Setor,6.0,10000.0,Selesai
+TRX-1151,TL011,Cabang Yogyakarta,TARIK TUNAI,7.0,7500.0,Selesai
+TRX-1152,TL010,Cabang Magelang,Transfer,7.0,7500.0,Dibatalkan
+TRX-1153,TL012,Cabang Yogyakarta,tarik tunai,8.0,7500.0,Selesai
+TRX-1154,TL012,Cabang Yogyakarta,Setor,10.0,3000.0,Dibatalkan
+TRX-1155,TL001,Cabang Yogyakarta,Setor,15.0,10000.0,Selesai
+TRX-1156,TL015,Cabang Magelang,setor,4.0,2000.0,Selesai
+TRX-1157,TL006,Cabang Yogyakarta,Transfer,21.0,3000.0,Dibatalkan
+TRX-1158,TL018,Cabang Semarang,TARIK TUNAI,5.0,10000.0,Selesai
+TRX-1159,TL010,Cabang Magelang,transfer,4.0,3000.0,Selesai
+TRX-1160,TL013,Cabang Yogyakarta,Transfer,16.0,5000.0,Selesai
+TRX-1161,TL015,Cabang Magelang,TARIK TUNAI,8.0,10000.0,Selesai
+TRX-1162,TL006,Cabang Yogyakarta,setor,3.0,5000.0,Selesai
+TRX-1163,TL016,Cabang Semarang,tarik tunai,14.0,2000.0,Selesai
+TRX-1164,TL009,Cabang Semarang,Setor,16.0,7500.0,Selesai
+TRX-1165,TL006,Cabang Yogyakarta,Transfer,19.0,10000.0,Selesai
+TRX-1166,TL001,Cabang Yogyakarta,setor,20.0,7500.0,Dibatalkan
+TRX-1167,TL001,Cabang Yogyakarta,Setor,16.0,7500.0,Dibatalkan
+TRX-1168,TL014,Cabang Semarang,Transfer,21.0,7500.0,Selesai
+TRX-1169,TL012,Cabang Yogyakarta,setor,14.0,2000.0,Selesai
+TRX-1170,TL009,Cabang Semarang,setor,18.0,5000.0,Dibatalkan
+TRX-1171,TL009,Cabang Semarang,transfer,16.0,3000.0,Dibatalkan
+TRX-1172,TL017,Cabang Semarang,Tarik Tunai,11.0,2000.0,Selesai
+TRX-1173,TL002,Cabang Semarang,tarik tunai,4.0,2000.0,Dibatalkan
+TRX-1174,TL007,Cabang Yogyakarta,setor,6.0,3000.0,Dibatalkan
+TRX-1175,TL018,Cabang Semarang,setor,24.0,7500.0,Selesai
+TRX-1176,TL004,Cabang Yogyakarta,transfer,5.0,7500.0,Selesai
+TRX-1177,TL014,Cabang Semarang,tarik tunai,23.0,10000.0,Selesai
+TRX-1178,TL018,Cabang Semarang,transfer,7.0,10000.0,Selesai
+TRX-1179,TL017,Cabang Semarang,TARIK TUNAI,15.0,7500.0,Selesai
+TRX-1180,TL019,Cabang Magelang,TARIK TUNAI,14.0,5000.0,Selesai
+TRX-1181,TL010,Cabang Magelang,transfer,8.0,5000.0,Selesai
+TRX-1182,TL013,Cabang Yogyakarta,TARIK TUNAI,3.0,3000.0,Dibatalkan
+TRX-1183,TL002,Cabang Semarang,transfer,20.0,10000.0,Dibatalkan
+TRX-1184,TL009,Cabang Semarang,TARIK TUNAI,22.0,10000.0,Selesai
+TRX-1185,TL019,Cabang Magelang,Tarik Tunai,,7500.0,Dibatalkan
+TRX-1186,TL019,Cabang Magelang,Tarik Tunai,21.0,2000.0,Selesai
+TRX-1187,TL007,Cabang Yogyakarta,Setor,5.0,2000.0,Selesai
+TRX-1188,TL011,Cabang Yogyakarta,transfer,12.0,7500.0,Selesai
+TRX-1189,TL020,Cabang Magelang,TARIK TUNAI,20.0,5000.0,Selesai
+TRX-1190,TL010,Cabang Magelang,Tarik Tunai,19.0,10000.0,Selesai
+TRX-1191,TL002,Cabang Semarang,tarik tunai,5.0,5000.0,Selesai
+TRX-1192,TL017,Cabang Semarang,Setor,13.0,7500.0,Selesai
+TRX-1193,TL015,Cabang Magelang,tarik tunai,15.0,7500.0,Selesai
+TRX-1194,TL008,Cabang Yogyakarta,Tarik Tunai,8.0,2000.0,Selesai
+TRX-1195,TL020,Cabang Magelang,setor,18.0,5000.0,Selesai
+TRX-1196,TL001,Cabang Yogyakarta,TARIK TUNAI,10.0,10000.0,Selesai
+TRX-1197,TL020,Cabang Magelang,TARIK TUNAI,16.0,2000.0,Selesai
+TRX-1198,TL001,Cabang Yogyakarta,tarik tunai,24.0,2000.0,Selesai
+TRX-1199,TL017,Cabang Semarang,TARIK TUNAI,14.0,5000.0,Selesai
+TRX-1200,TL011,Cabang Yogyakarta,TARIK TUNAI,7.0,7500.0,Selesai
+TRX-1201,TL017,Cabang Semarang,tarik tunai,21.0,3000.0,Dibatalkan
+TRX-1202,TL006,Cabang Yogyakarta,setor,15.0,5000.0,Dibatalkan
+TRX-1203,TL017,Cabang Semarang,setor,5.0,7500.0,Dibatalkan
+TRX-1204,TL004,Cabang Yogyakarta,transfer,19.0,2000.0,Selesai
+TRX-1205,TL017,Cabang Semarang,Tarik Tunai,15.0,5000.0,Dibatalkan
+TRX-1206,TL001,Cabang Yogyakarta,Transfer,17.0,3000.0,Selesai
+TRX-1207,TL008,Cabang Yogyakarta,tarik tunai,8.0,7500.0,Selesai
+TRX-1208,TL002,Cabang Semarang,Transfer,25.0,10000.0,Dibatalkan
+TRX-1209,TL013,Cabang Yogyakarta,Transfer,14.0,5000.0,Selesai
+TRX-1210,TL011,Cabang Yogyakarta,transfer,18.0,2000.0,Selesai
+TRX-1211,TL020,Cabang Magelang,tarik tunai,17.0,3000.0,Dibatalkan
+TRX-1212,TL008,Cabang Yogyakarta,setor,16.0,3000.0,Selesai
+TRX-1213,TL003,Cabang Yogyakarta,TARIK TUNAI,18.0,5000.0,Selesai
+TRX-1214,TL013,Cabang Yogyakarta,setor,19.0,5000.0,Dibatalkan
+TRX-1215,TL014,Cabang Semarang,TARIK TUNAI,13.0,5000.0,Dibatalkan
+TRX-1216,TL010,Cabang Magelang,Transfer,3.0,3000.0,Selesai
+TRX-1217,TL001,Cabang Yogyakarta,Tarik Tunai,24.0,2000.0,Selesai
+TRX-1218,TL017,Cabang Semarang,transfer,7.0,10000.0,Selesai
+TRX-1219,TL006,Cabang Yogyakarta,TARIK TUNAI,3.0,10000.0,Selesai
+TRX-1220,TL010,Cabang Magelang,Tarik Tunai,24.0,7500.0,Selesai
+TRX-1221,TL018,Cabang Semarang,Tarik Tunai,6.0,7500.0,Selesai
+TRX-1222,TL017,Cabang Semarang,Setor,7.0,10000.0,Selesai
+TRX-1223,TL017,Cabang Semarang,TARIK TUNAI,3.0,3000.0,Selesai
+TRX-1224,TL011,Cabang Yogyakarta,Transfer,15.0,2000.0,Dibatalkan
+TRX-1225,TL017,Cabang Semarang,setor,-9.0,5000.0,Selesai
+TRX-1226,TL017,Cabang Semarang,TARIK TUNAI,22.0,10000.0,Selesai
+TRX-1227,TL002,Cabang Semarang,Setor,11.0,10000.0,Dibatalkan
+TRX-1228,TL015,Cabang Magelang,Tarik Tunai,14.0,7500.0,Selesai
+TRX-1229,TL016,Cabang Semarang,Transfer,4.0,10000.0,Selesai
+TRX-1230,TL002,Cabang Semarang,Transfer,6.0,7500.0,Selesai
+TRX-1231,TL016,Cabang Semarang,Transfer,15.0,7500.0,Selesai
+TRX-1232,TL013,Cabang Yogyakarta,TARIK TUNAI,6.0,10000.0,Selesai
+TRX-1233,TL011,Cabang Yogyakarta,setor,15.0,2000.0,Selesai
+TRX-1234,TL010,Cabang Magelang,Transfer,15.0,3000.0,Selesai
+TRX-1235,TL018,Cabang Semarang,transfer,7.0,2000.0,Selesai
+TRX-1236,TL016,Cabang Semarang,Tarik Tunai,11.0,10000.0,Dibatalkan
+TRX-1237,TL005,Cabang Yogyakarta,TARIK TUNAI,5.0,7500.0,Dibatalkan
+TRX-1238,TL013,Cabang Yogyakarta,setor,17.0,5000.0,Dibatalkan
+TRX-1239,TL013,Cabang Yogyakarta,Setor,18.0,10000.0,Selesai
+TRX-1240,TL013,Cabang Yogyakarta,Setor,9.0,7500.0,Selesai
+TRX-1241,TL012,Cabang Yogyakarta,TARIK TUNAI,11.0,2000.0,Dibatalkan
+TRX-1242,TL018,Cabang Semarang,setor,22.0,7500.0,Dibatalkan
+TRX-1243,TL015,Cabang Magelang,Setor,23.0,10000.0,Selesai
+TRX-1244,TL006,Cabang Yogyakarta,Transfer,5.0,10000.0,Dibatalkan
+TRX-1245,TL002,Cabang Semarang,tarik tunai,12.0,10000.0,Selesai
+TRX-1246,TL014,Cabang Semarang,Setor,10.0,5000.0,Dibatalkan
+TRX-1247,TL009,Cabang Semarang,setor,23.0,2000.0,Dibatalkan
+TRX-1248,TL002,Cabang Semarang,setor,7.0,7500.0,Selesai
+TRX-1249,TL013,Cabang Yogyakarta,transfer,7.0,5000.0,Selesai
+TRX-1250,TL011,Cabang Yogyakarta,Transfer,22.0,3000.0,Selesai
+TRX-1251,TL001,Cabang Yogyakarta,Transfer,6.0,10000.0,Selesai
+TRX-1252,TL013,Cabang Yogyakarta,Setor,16.0,10000.0,Selesai
+TRX-1253,TL004,Cabang Yogyakarta,Transfer,15.0,7500.0,Selesai
+TRX-1254,TL014,Cabang Semarang,tarik tunai,24.0,5000.0,Selesai
+TRX-1255,TL014,Cabang Semarang,Transfer,8.0,5000.0,Dibatalkan
+TRX-1256,TL018,Cabang Semarang,tarik tunai,7.0,2000.0,Selesai
+TRX-1257,TL002,Cabang Semarang,Setor,7.0,3000.0,Selesai
+TRX-1258,TL019,Cabang Magelang,TARIK TUNAI,17.0,10000.0,Selesai
+TRX-1259,TL008,Cabang Yogyakarta,Transfer,5.0,2000.0,Dibatalkan
+TRX-1260,TL009,Cabang Semarang,TARIK TUNAI,15.0,2000.0,Selesai
+TRX-1261,TL014,Cabang Semarang,setor,7.0,7500.0,Selesai
+TRX-1262,TL007,Cabang Yogyakarta,Tarik Tunai,20.0,3000.0,Dibatalkan
+TRX-1263,TL013,Cabang Yogyakarta,Setor,19.0,3000.0,Selesai
+TRX-1264,TL009,Cabang Semarang,TARIK TUNAI,13.0,10000.0,Selesai
+TRX-1265,TL020,Cabang Magelang,TARIK TUNAI,13.0,7500.0,Selesai
+TRX-1266,TL004,Cabang Yogyakarta,tarik tunai,11.0,3000.0,Selesai
+TRX-1267,TL008,Cabang Yogyakarta,Transfer,8.0,7500.0,Selesai
+TRX-1268,TL020,Cabang Magelang,Setor,21.0,5000.0,Selesai
+TRX-1269,TL020,Cabang Magelang,tarik tunai,7.0,5000.0,Selesai
+TRX-1270,TL014,Cabang Semarang,Setor,20.0,5000.0,Selesai
+TRX-1271,TL012,Cabang Yogyakarta,setor,13.0,10000.0,Selesai
+TRX-1272,TL016,Cabang Semarang,Setor,16.0,3000.0,Selesai
+TRX-1273,TL011,Cabang Yogyakarta,setor,17.0,5000.0,Selesai
+TRX-1274,TL018,Cabang Semarang,Transfer,20.0,5000.0,Selesai
+TRX-1275,TL011,Cabang Yogyakarta,Setor,-1.0,2000.0,Selesai
+TRX-1276,TL010,Cabang Magelang,Tarik Tunai,10.0,2000.0,Selesai
+TRX-1277,TL012,Cabang Yogyakarta,Setor,8.0,5000.0,Dibatalkan
+TRX-1278,TL005,Cabang Yogyakarta,transfer,19.0,10000.0,Selesai
+TRX-1279,TL017,Cabang Semarang,setor,10.0,7500.0,Dibatalkan
+TRX-1280,TL012,Cabang Yogyakarta,tarik tunai,3.0,5000.0,Selesai
+TRX-1281,TL007,Cabang Yogyakarta,Transfer,21.0,10000.0,Selesai
+TRX-1282,TL011,Cabang Yogyakarta,tarik tunai,17.0,3000.0,Dibatalkan
+TRX-1283,TL008,Cabang Yogyakarta,setor,25.0,5000.0,Selesai
+TRX-1284,TL012,Cabang Yogyakarta,Transfer,20.0,2000.0,Selesai
+TRX-1285,TL004,Cabang Yogyakarta,Setor,16.0,3000.0,Dibatalkan
+TRX-1286,TL007,Cabang Yogyakarta,Transfer,13.0,5000.0,Dibatalkan
+TRX-1287,TL019,Cabang Magelang,transfer,4.0,3000.0,Selesai
+TRX-1288,TL018,Cabang Semarang,setor,3.0,3000.0,Selesai
+TRX-1289,TL012,Cabang Yogyakarta,TARIK TUNAI,7.0,5000.0,Dibatalkan
+TRX-1290,TL013,Cabang Yogyakarta,Setor,22.0,5000.0,Dibatalkan
+TRX-1291,TL002,Cabang Semarang,TARIK TUNAI,9.0,7500.0,Selesai
+TRX-1292,TL016,Cabang Semarang,tarik tunai,18.0,10000.0,Selesai
+TRX-1293,TL010,Cabang Magelang,setor,8.0,2000.0,Selesai
+TRX-1294,TL013,Cabang Yogyakarta,transfer,12.0,5000.0,Selesai
+TRX-1295,TL009,Cabang Semarang,tarik tunai,4.0,2000.0,Selesai
+TRX-1296,TL018,Cabang Semarang,tarik tunai,3.0,5000.0,Selesai
+TRX-1297,TL010,Cabang Magelang,transfer,15.0,10000.0,Selesai
+TRX-1298,TL010,Cabang Magelang,tarik tunai,8.0,2000.0,Selesai
+TRX-1299,TL015,Cabang Magelang,TARIK TUNAI,20.0,7500.0,Selesai
+TRX-1300,TL013,Cabang Yogyakarta,tarik tunai,25.0,3000.0,Selesai
+TRX-1301,TL010,Cabang Magelang,Setor,12.0,10000.0,Selesai
+TRX-1302,TL002,Cabang Semarang,transfer,17.0,7500.0,Dibatalkan
+TRX-1303,TL019,Cabang Magelang,Transfer,21.0,5000.0,Selesai
+TRX-1304,TL016,Cabang Semarang,transfer,19.0,5000.0,Selesai
+TRX-1305,TL010,Cabang Magelang,setor,3.0,5000.0,Selesai
+TRX-1306,TL012,Cabang Yogyakarta,TARIK TUNAI,21.0,7500.0,Selesai
+TRX-1307,TL020,Cabang Magelang,TARIK TUNAI,19.0,5000.0,Selesai
+TRX-1308,TL012,Cabang Yogyakarta,transfer,11.0,2000.0,Selesai
+TRX-1309,TL014,Cabang Semarang,setor,11.0,10000.0,Selesai
+TRX-1310,TL020,Cabang Magelang,TARIK TUNAI,19.0,5000.0,Selesai
+TRX-1311,TL018,Cabang Semarang,tarik tunai,17.0,10000.0,Dibatalkan
+TRX-1312,TL001,Cabang Yogyakarta,Tarik Tunai,25.0,3000.0,Selesai
+TRX-1313,TL018,Cabang Semarang,setor,13.0,3000.0,Selesai
+TRX-1314,TL013,Cabang Yogyakarta,tarik tunai,3.0,2000.0,Selesai
+TRX-1315,TL016,Cabang Semarang,Tarik Tunai,3.0,7500.0,Selesai
+TRX-1316,TL015,Cabang Magelang,Setor,13.0,2000.0,Selesai
+TRX-1317,TL009,Cabang Semarang,tarik tunai,11.0,2000.0,Selesai
+TRX-1318,TL014,Cabang Semarang,tarik tunai,20.0,2000.0,Selesai
+TRX-1319,TL019,Cabang Magelang,Setor,7.0,7500.0,Selesai
+TRX-1320,TL009,Cabang Semarang,Transfer,15.0,10000.0,Dibatalkan
+TRX-1321,TL004,Cabang Yogyakarta,Setor,8.0,5000.0,Selesai
+TRX-1322,TL004,Cabang Yogyakarta,tarik tunai,10.0,2000.0,Selesai
+TRX-1323,TL006,Cabang Yogyakarta,setor,6.0,10000.0,Selesai
+TRX-1324,TL014,Cabang Semarang,setor,17.0,3000.0,Selesai
+TRX-1325,TL018,Cabang Semarang,TARIK TUNAI,10.0,5000.0,Selesai
+TRX-1326,TL009,Cabang Semarang,Tarik Tunai,20.0,2000.0,Selesai
+TRX-1327,TL015,Cabang Magelang,transfer,12.0,2000.0,Selesai
+TRX-1328,TL011,Cabang Yogyakarta,TARIK TUNAI,24.0,3000.0,Dibatalkan
+TRX-1329,TL017,Cabang Semarang,TARIK TUNAI,12.0,10000.0,Selesai
+TRX-1330,TL018,Cabang Semarang,tarik tunai,12.0,3000.0,Selesai
+TRX-1331,TL016,Cabang Semarang,setor,24.0,3000.0,Dibatalkan
+TRX-1332,TL006,Cabang Yogyakarta,tarik tunai,4.0,7500.0,Dibatalkan
+TRX-1333,TL019,Cabang Magelang,tarik tunai,25.0,7500.0,Dibatalkan
+TRX-1334,TL020,Cabang Magelang,Tarik Tunai,18.0,7500.0,Selesai
+TRX-1335,TL013,Cabang Yogyakarta,setor,4.0,2000.0,Dibatalkan
+TRX-1336,TL005,Cabang Yogyakarta,Setor,7.0,2000.0,Dibatalkan
+TRX-1337,TL016,Cabang Semarang,Tarik Tunai,22.0,3000.0,Selesai
+TRX-1338,TL008,Cabang Yogyakarta,TARIK TUNAI,4.0,5000.0,Selesai
+TRX-1339,TL019,Cabang Magelang,Transfer,23.0,7500.0,Dibatalkan
+TRX-1340,TL009,Cabang Semarang,TARIK TUNAI,10.0,7500.0,Selesai
+TRX-1341,TL005,Cabang Yogyakarta,setor,4.0,3000.0,Selesai
+TRX-1342,TL003,Cabang Yogyakarta,Setor,21.0,7500.0,Selesai
+TRX-1343,TL006,Cabang Yogyakarta,setor,7.0,10000.0,Selesai
+TRX-1344,TL007,Cabang Yogyakarta,setor,17.0,2000.0,Dibatalkan
+TRX-1345,TL020,Cabang Magelang,Transfer,4.0,10000.0,Selesai
+TRX-1346,TL015,Cabang Magelang,Tarik Tunai,12.0,5000.0,Selesai
+TRX-1347,TL016,Cabang Semarang,TARIK TUNAI,5.0,3000.0,Selesai
+TRX-1348,TL010,Cabang Magelang,Transfer,24.0,5000.0,Selesai
+TRX-1349,TL014,Cabang Semarang,TARIK TUNAI,25.0,7500.0,Selesai
+TRX-1350,TL003,Cabang Yogyakarta,transfer,15.0,10000.0,Selesai
+TRX-1351,TL006,Cabang Yogyakarta,Transfer,7.0,7500.0,Selesai
+TRX-1352,TL009,Cabang Semarang,Transfer,20.0,3000.0,Selesai
+TRX-1353,TL009,Cabang Semarang,transfer,4.0,2000.0,Selesai
+TRX-1354,TL020,Cabang Magelang,setor,20.0,3000.0,Selesai
+TRX-1355,TL002,Cabang Semarang,tarik tunai,8.0,2000.0,Selesai
+TRX-1356,TL017,Cabang Semarang,transfer,13.0,10000.0,Dibatalkan
+TRX-1357,TL002,Cabang Semarang,TARIK TUNAI,18.0,7500.0,Selesai
+TRX-1358,TL011,Cabang Yogyakarta,Tarik Tunai,6.0,5000.0,Dibatalkan
+TRX-1359,TL008,Cabang Yogyakarta,Transfer,10.0,3000.0,Selesai
+TRX-1360,TL001,Cabang Yogyakarta,tarik tunai,4.0,5000.0,Selesai
+TRX-1361,TL009,Cabang Semarang,setor,23.0,3000.0,Selesai
+TRX-1362,TL014,Cabang Semarang,Transfer,20.0,2000.0,Selesai
+TRX-1363,TL017,Cabang Semarang,tarik tunai,10.0,5000.0,Dibatalkan
+TRX-1364,TL019,Cabang Magelang,Setor,23.0,3000.0,Selesai
+TRX-1365,TL007,Cabang Yogyakarta,transfer,4.0,2000.0,Selesai
+TRX-1366,TL017,Cabang Semarang,setor,21.0,7500.0,Selesai
+TRX-1367,TL015,Cabang Magelang,setor,14.0,10000.0,Dibatalkan
+TRX-1368,TL008,Cabang Yogyakarta,TARIK TUNAI,24.0,7500.0,Dibatalkan
+TRX-1369,TL006,Cabang Yogyakarta,Tarik Tunai,6.0,10000.0,Selesai
+TRX-1370,TL011,Cabang Yogyakarta,Tarik Tunai,25.0,3000.0,Dibatalkan
+TRX-1371,TL006,Cabang Yogyakarta,transfer,21.0,2000.0,Selesai
+TRX-1372,TL007,Cabang Yogyakarta,TARIK TUNAI,7.0,7500.0,Dibatalkan
+TRX-1373,TL014,Cabang Semarang,tarik tunai,4.0,7500.0,Selesai
+TRX-1374,TL009,Cabang Semarang,Setor,16.0,7500.0,Dibatalkan
+TRX-1375,TL015,Cabang Magelang,setor,22.0,3000.0,Selesai
+TRX-1376,TL001,Cabang Yogyakarta,TARIK TUNAI,4.0,5000.0,Selesai
+TRX-1377,TL012,Cabang Yogyakarta,Tarik Tunai,6.0,5000.0,Selesai
+TRX-1378,TL002,Cabang Semarang,tarik tunai,17.0,5000.0,Dibatalkan
+TRX-1379,TL005,Cabang Yogyakarta,TARIK TUNAI,18.0,2000.0,Selesai
+TRX-1380,TL005,Cabang Yogyakarta,tarik tunai,19.0,10000.0,Dibatalkan
+TRX-1381,TL016,Cabang Semarang,setor,10.0,2000.0,Selesai
+TRX-1382,TL005,Cabang Yogyakarta,Tarik Tunai,18.0,5000.0,Selesai
+TRX-1383,TL006,Cabang Yogyakarta,Transfer,9.0,2000.0,Selesai
+TRX-1384,TL005,Cabang Yogyakarta,TARIK TUNAI,18.0,10000.0,Dibatalkan
+TRX-1385,TL014,Cabang Semarang,transfer,5.0,10000.0,Selesai
+TRX-1386,TL004,Cabang Yogyakarta,Tarik Tunai,7.0,7500.0,Selesai
+TRX-1387,TL004,Cabang Yogyakarta,setor,24.0,2000.0,Selesai
+TRX-1388,TL001,Cabang Yogyakarta,transfer,16.0,3000.0,Selesai
+TRX-1389,TL020,Cabang Magelang,Transfer,11.0,2000.0,Selesai
+TRX-1390,TL011,Cabang Yogyakarta,Tarik Tunai,17.0,2000.0,Selesai
+TRX-1391,TL010,Cabang Magelang,TARIK TUNAI,11.0,2000.0,Selesai
+TRX-1392,TL005,Cabang Yogyakarta,Transfer,5.0,3000.0,Selesai
+TRX-1393,TL007,Cabang Yogyakarta,TARIK TUNAI,9.0,10000.0,Selesai
+TRX-1394,TL003,Cabang Yogyakarta,setor,17.0,2000.0,Selesai
+TRX-1395,TL019,Cabang Magelang,Tarik Tunai,3.0,2000.0,Dibatalkan
+TRX-1396,TL004,Cabang Yogyakarta,tarik tunai,12.0,7500.0,Selesai
+TRX-1397,TL006,Cabang Yogyakarta,setor,18.0,7500.0,Selesai
+TRX-1398,TL020,Cabang Magelang,TARIK TUNAI,24.0,5000.0,Dibatalkan
+TRX-1399,TL006,Cabang Yogyakarta,transfer,25.0,3000.0,Selesai
+TRX-1005,TL004,Cabang Yogyakarta,Setor,10.0,7500.0,Selesai
+TRX-1022,TL007,Cabang Yogyakarta,transfer,3.0,5000.0,Selesai
+TRX-1085,TL018,Cabang Semarang,tarik tunai,22.0,7500.0,Selesai
