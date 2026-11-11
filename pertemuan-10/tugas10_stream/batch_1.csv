@@ -1,0 +1,4 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+P001,Magelang,Kopi Susu Gula Aren,2,22000,2026-11-11 10:00:15
+P002,Yogyakarta,Americano,1,18000,2026-11-11 10:00:40
+P003,Magelang,Matcha Latte,3,25000,2026-11-11 10:01:05

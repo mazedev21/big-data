@@ -1,0 +1,5 @@
+v1
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_output/part-00000-6501ed2a-64a1-4936-a1c0-8b829a5c3dd0-c000.snappy.parquet","size":1857,"isDir":false,"modificationTime":1794412043525,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_output/part-00001-bd12fd68-630f-4c97-b789-6405974b054c-c000.snappy.parquet","size":1832,"isDir":false,"modificationTime":1794412043525,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_output/part-00002-85bea42c-b377-411b-8116-6af75d6c18f6-c000.snappy.parquet","size":1847,"isDir":false,"modificationTime":1794412043525,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_output/part-00003-05eefd4b-31a5-4272-abed-a71f208c8202-c000.snappy.parquet","size":1759,"isDir":false,"modificationTime":1794412043525,"blockReplication":1,"blockSize":33554432,"action":"add"}

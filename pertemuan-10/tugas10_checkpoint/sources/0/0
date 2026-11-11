@@ -1,0 +1,5 @@
+v1
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_stream/batch_1.csv","timestamp":1794412021250,"batchId":0}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_stream/batch_2.csv","timestamp":1794412028742,"batchId":0}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_stream/batch_3.csv","timestamp":1794412034863,"batchId":0}
+{"path":"file:///mnt/MazedevUbuntu/tugas/praktikum/big-data/pertemuan-10/tugas10_stream/batch_4.csv","timestamp":1794412041563,"batchId":0}

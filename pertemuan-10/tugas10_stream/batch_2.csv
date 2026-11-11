@@ -1,0 +1,4 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+P004,Yogyakarta,Espresso,2,15000,2026-11-11 10:01:30
+P005,Solo,Cappuccino,2,24000,2026-11-11 10:01:45
+P006,Magelang,Kopi Tubruk,1,12000,2026-11-11 10:01:55
